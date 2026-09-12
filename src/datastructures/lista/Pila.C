@@ -1,0 +1,4 @@
+Pila *crearPila(void)
+{
+
+}
